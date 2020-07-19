@@ -1,4 +1,4 @@
-# <YOUR TITLE>
+# YOUR TITLE
 
 Welcome to <YOUR TITLE> 🥳!
 
