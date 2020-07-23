@@ -2,7 +2,7 @@
 
 Welcome to <ADOBE XD WORKSHOP> 🥳!
 
-Here, we will learn about <A SHORT DESCRIPTION OF THE OUTCOME>
+Here, we will learn about <A Brief Intro To Adobe XD>
  
 Before we jump straight into the workshops, allow me to introduce ourself, do watch this short 1 minute video to know more 🎇!
 
@@ -17,14 +17,29 @@ Without further ado, let's get started!
 1. What Is UI / UX?
 2. What is Adobe XD
 3. Why Adobe xD?
-4. Benefits
+4. Installation
 5. Hands-on Websites, Mobile, Voice  and games
 
 
  ![Screen](https://github.com/SoyaBean123456/Adobe-XD-Workshop/blob/master/download.jpg?raw=true)
  
- ## In General
-Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc. It is available for macOS and Windows, although there are versions for iOS and Android to help preview the result of work directly on mobile devices. 
+ ## What is UI/UX?
+ 
+ “User experience (UX) is the interaction and experience users have with a product... User interface (UI) is the specific asset users interact with. For example, UI can deal with traditional concepts like design elements of a product. (C)
+ 
+ ## What Is Adobe XD?
+Adobe XD is a vector-based user experience design tool for web apps and mobile apps, developed and published by Adobe Inc. It is available for macOS and Windows, although there are versions for iOS and Android to help preview the result of work directly on mobile devices. With Adobe XD, you get one powerful tool for your whole UI/UX design process. Create user flows, wireframes, high-fidelity designs, interactive prototypes, animations, and more.
+
+## Why Adobe XD? (Benefits)
+
+Prototyping - UX
+Designing - UI
+Development - PlugIns
+
+
+## Installation
+
+Link - https://www.adobe.com/sea/products/xd.html
  
 ## Awesome Open Source Plugins
 
